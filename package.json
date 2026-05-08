@@ -1,0 +1,6 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "description": "A friendly hello-world CLI that greets you by name in 12 languages",
+  "keywords": ["cli", "i18n", "greeting", "beginner-friendly"]
+}
